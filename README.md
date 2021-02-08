@@ -1,2 +1,2 @@
-# Dice-App-
-Dice App using flutter
+# quize-game-
+quize game using flutter
